@@ -13,7 +13,7 @@
 
 
 
-##Functional Requirements: -
+## Functional Requirements: -
 
 In this project we used the concept of file handling, data structures, pointer and functions.
 The basic user-defined functions used in this project are listed below:
